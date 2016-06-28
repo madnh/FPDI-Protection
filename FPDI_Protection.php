@@ -15,9 +15,6 @@
  *                                                                           *
  ****************************************************************************/
 
-use \FPDI;
-use \pdf_parser;
-
 class FPDI_Protection extends FPDI
 {
     const CAN_PRINT = 4;

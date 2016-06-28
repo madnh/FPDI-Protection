@@ -3,7 +3,8 @@
   "description": "Composer version of Setasign FPDI-Protection",
   "keywords": [
     "fpdi",
-    "pdf"
+    "pdf",
+    "fpdi-protection"
   ],
   "require": {
     "php": ">=5.3.0",
